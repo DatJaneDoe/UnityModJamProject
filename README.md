@@ -1,6 +1,6 @@
-I couldnt think of an appropriate name for this mod within the ModJam deadline.
+My submission for the 1330 Studios 2025 Q1 Modjam
 
-This is one of my "typical" BTD6 Boss Mods with some cringe cutscenes
+A BTD6 Boss Mod with some cringe cutscenes
 
 -Five tiers, each on rounds 40, 60, 80, 100, and 120
 
